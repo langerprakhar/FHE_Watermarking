@@ -1,0 +1,8 @@
+concrete-ml
+gradio
+fastapi
+uvicorn
+invisible-watermark
+requests
+pillow
+numpy
